@@ -1,0 +1,171 @@
+* {
+    scroll-behavior: smooth;
+}
+.contenedorN{
+background-color: white;
+	width: 80%;
+	margin: 0 auto;
+	color: black;
+	border-radius: 3px;
+	border: solid 1px #ccc;
+			padding: 5%;
+			 word-break: break-all;
+}
+body{
+	background-color: #292b2c; 
+}
+}
+.contenedorPadre{
+	border-collapse: collapse;
+}
+.contenedorTXT{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #000;
+width: 90%; 
+height:160px;
+font-size: 18px; 
+font-weight: 400; 
+background: white; 
+margin: 0 auto; 
+margin-top: 50px;
+overflow: hidden; 
+padding: 5%; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 35px 0px 35px 0px; 
+-webkit-border-radius: 35px 0px 0px 0px; 
+}
+.contenedorS{
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #000;
+width: 90%; 
+height:400px;
+font-size: 18px; 
+font-weight: 400; 
+text-align: center;
+background: white; 
+margin: 0 auto; 
+overflow: hidden; 
+padding: 5%; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 0px 0px 35px 0px; 
+-webkit-border-radius: 0px 0px 0px 0px; 
+display: flex;
+justify-content: space-around;
+}
+.contenedorZ{
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #000;
+width: 90%; 
+height:600px;
+font-size: 18px; 
+font-weight: 400; 
+text-align: center;
+background: white; 
+margin: 0 auto; 
+overflow: hidden; 
+padding: 5%; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 0px 0px 35px 0px; 
+-webkit-border-radius: 0px 0px 0px 0px; 
+display: flex;
+justify-content: space-around;
+}
+.contenedorF{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #000;
+width: 90%; 
+height:400px;
+font-size: 18px; 
+font-weight: 400; 
+text-align: center;
+background: white; 
+margin: 0 auto; 
+overflow: hidden; 
+padding: 5%; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 0px 0px 35px 0px; 
+-webkit-border-radius: 0px 0px 0px 0px; 
+display: flex;
+justify-content: space-around;
+}
+.contenedorG{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #000;
+width: 90%; 
+height:450px;
+font-size: 18px; 
+font-weight: 400; 
+text-align: center;
+background: white; 
+margin: 0 auto; 
+margin-bottom: 50px;
+overflow: hidden; 
+padding: 5%; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 0px 0px 35px 0px; 
+-webkit-border-radius: 0px 0px 35px 0px; 
+display: flex;
+justify-content: space-around;
+}
+
+h2{
+	color: #E84F2E;
+	text-align: left;
+}
+h4{
+	color: #E84F2E;
+	text-align: center;
+	margin: 25px;
+}
+h3{
+	color: white;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.card{
+height:430px;
+	width:90%;
+	line-height:200px;
+	font-size:20px;
+	background-color:white;
+	color:#fff;
+	text-align:center;
+	margin:5px 2px;	
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	border-radius: 15px;
+}
+
+.avatar {
+    /* cambia estos dos valores para definir el tamaño de tu círculo */
+    height: 200px;
+    width: 200px;
+    /* los siguientes valores son independientes del tamaño del círculo */
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+.avatar2{
+	width: 250px;
+	color: black;
+	background-color: white;
+	text-align: justify;
+	padding: 2px;
+	margin-top: 5px; 
+}
+.parrafo{
+	margin-top: 85px;
+	margin-left: 50px;
+	text-align: justify;
+}
+.parrafo2{
+	margin-top: 65px;
+	margin-right: 50px;
+	text-align: justify;
+}
+
